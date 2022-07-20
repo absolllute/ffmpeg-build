@@ -17,6 +17,8 @@ To get screen recording to work you need to install FFmpeg to Geometry Dash
 ## Why?
 FFmpeg uses a sinful license that makes it awkward to package for distribution
 
+Later builds of Mega Hack will avoid requiring this extra step, but for now this is required unfortunately
+
 ## Disclaimer
 Build courtesy of [www.gyan.dev](www.gyan.dev)
 FFmpeg: [FFmpeg](https://ffmpeg.org/)
